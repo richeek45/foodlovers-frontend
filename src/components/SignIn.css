@@ -1,0 +1,12 @@
+
+
+#disp {
+  position: fixed;
+  top: 5;
+  right: 0;
+  bottom: 5;
+  left: 0;
+  z-index: 10;
+  background: linear-gradient(to left, rgb(57, 95, 177), rgb(0, 255, 191));
+}
+
